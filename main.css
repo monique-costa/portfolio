@@ -32,6 +32,7 @@ header {
     color: #ffffff;
     font-weight: bold;
     cursor: pointer;
+    margin-bottom: 20px;
 }
 
 .title {
@@ -44,7 +45,7 @@ header {
 h1 {
     font-family: 'East Sea Dokdo', cursive;
     color: #ffffff;
-    font-size: 8vw;
+    font-size: 70px;
     font-weight: lighter;
     text-transform: uppercase;
     
@@ -53,13 +54,13 @@ h1 {
 h2 {
     font-family: 'East Sea Dokdo', cursive;
     color: #255075;
-    font-size: 5vw;
+    font-size: 55px;
     text-align: center;
     margin: 10px;
 }
 
 .developer {
-    font-size: 1.6vw;
+    font-size: 17px;
 }
 
 p{
@@ -73,7 +74,7 @@ p{
     margin: 10px 25px;
     text-align: center;
     color:#ffffff;
-    font-size: 1.2vw;
+    font-size: 16px;
 
 }
 
@@ -82,7 +83,7 @@ li a {
     font-family: 'Coming Soon', cursive;
     color: #255075;
     font-weight: bold;
-    font-size: 1.2vw;
+    font-size: 19px;
     display: block;
     margin: 10px 0;
 }
@@ -93,14 +94,14 @@ li a {
 
 .carousel {
     position: relative;
-    height: 45vh;
-    width: 40vw;
+    height: 300px;
+    width: 60%;
     margin: 0 auto;
 }
 
 .carousel__img{
-    width: 40%;
-    height: 40%;
+    height: 150px;
+    width: 150px;
     object-fit: cover;
 }
 
@@ -142,11 +143,11 @@ li a {
 }
 
 .carousel__button--left {
-    left: -20vw;
+    left: -135px;
 }
 
 .carousel__button--right {
-    right: -20vw;
+    right: -135px;
 }
 
 .carousel__nav{
