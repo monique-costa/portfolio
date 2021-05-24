@@ -65,6 +65,7 @@ h2 {
 p{
     font-family: 'Coming Soon', cursive;
     color: #ffffff;
+    font-size: 14px;
 }
 .sobre {
     font-family: 'Coming Soon', cursive;
@@ -182,5 +183,5 @@ footer {
 
 .linkedin {
     height: 20px;
-    opacity: 0.5;
+    opacity: 0.7;
 }
