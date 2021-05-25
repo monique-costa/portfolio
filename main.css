@@ -89,12 +89,12 @@ li a {
 }
 
 .content-holder{
-    margin-top: 15vh;
+    margin: 150px auto;
 }
 
 .carousel {
     position: relative;
-    height: 300px;
+    height: 250px;
     width: 60%;
     margin: 0 auto;
 }
