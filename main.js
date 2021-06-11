@@ -88,7 +88,7 @@ var engButton = document.querySelector('.eng');
 var portButton = document.querySelector('.port');
 
 engButton.addEventListener('click', e => {
-    document.querySelector('.about').innerHTML = "<h2>About Me</h2><p class=\"sobre\">My name is Monique, I am from São Paulo (Brazil) and I'm passionate about art and technology. I'm graduating a technical course in System Development, at the institution SENAI, and I'm also a student of an online platform called Alura.</p> <p class=\"sobre\">I aim to work as a Front-End developer, web or mobile. You can see some of my projects by navigatin this portfolio!</p>";
+    document.querySelector('.about').innerHTML = "<h2>About Me</h2><p class=\"sobre\">My name is Monique, I am from São Paulo (Brazil) and I'm passionate about art and technology. I'm graduating a technical course in System Development, at the institution SENAI, and I'm also a student of an online platform called Alura.</p> <p class=\"sobre\">I aim to work as a Front-End developer, web or mobile. You can see some of my projects by navigating this portfolio!</p>";
     document.querySelector('.developer').innerHTML = "front-end developer"
     document.querySelector('.api').innerHTML = "Using API"
     document.querySelector('.game').innerHTML = "Javascript game"
