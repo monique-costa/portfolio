@@ -1,0 +1,28 @@
+.home-container {
+    margin: 6vh auto 0 auto;
+}
+
+.projetos-container {
+    height: 480vh;
+    padding: 8vh 0 0 0;
+}
+
+.contato-text p {
+    font-size: 18px;
+    line-height: 20px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.contato-text h2 {
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+.contato-form {
+    width: 80%;
+}
+
+.footer-container {
+    height: 30px;
+}

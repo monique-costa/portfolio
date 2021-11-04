@@ -1,0 +1,12 @@
+.home-container {
+    margin: 13vh auto 0 auto;
+}
+
+.projetos-container {
+    height: 550vh;
+    padding: 8vh 0 0 0;
+}
+
+.contato-form-msg {
+    height: 50px;
+}

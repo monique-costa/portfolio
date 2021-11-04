@@ -1,0 +1,69 @@
+.home-img,
+.home-img-container {
+    width: 200px;
+    height: 200px;
+}
+
+.home-text {
+    width: 300px;
+    margin-top: 10px;
+}
+
+.home-text h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.home-text h2 {
+    font-size: 35px;
+}
+
+.home-text p {
+    line-height: 20px;
+}
+
+.home-next-container {
+    top: 80%;
+}
+
+.next-icon {
+    height: 70px;
+}
+
+.projeto-text-container {
+    width: 330px;
+}
+
+.projeto-text-container p {
+    margin-bottom: 10px;
+}
+
+.contato-content {
+    display: block;
+}
+
+.contato-text {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+
+.contato-text h2 {
+    font-size: 26px;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.contato-text p {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.contato-text a {
+    font-size: 18px;
+}
+
+.contato-form {
+    margin-top: 22px;
+}

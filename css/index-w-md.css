@@ -1,0 +1,53 @@
+.home-container {
+    margin: -2vh auto 0 auto;
+}
+
+.home-content {
+    flex-direction: column;
+}
+
+.home-img-container,
+.home-text {
+    margin: 0 auto;
+}
+
+.home-img,
+.home-img-container {
+    width: 300px;
+    height: 300px;
+}
+
+.home-text {
+    margin-top: 30px;
+    width: 400px;
+}
+
+.home-text h1 {
+    font-size: 65px;
+}
+
+.home-text h2 {
+    font-size: 35px;
+}
+
+.projeto-text-container {
+    width: 330px;
+}
+
+.contato-container {
+    width: 80%;
+}
+
+.contato-text {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contato-text h2 {
+    font-size: 50px;
+}
+
+.contato-form {
+    width: 90%;
+    margin: 0 auto;
+}

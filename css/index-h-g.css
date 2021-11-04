@@ -1,0 +1,28 @@
+.next-icon {
+    display: none;
+}
+
+.projetos-container {
+    height: 430vh;
+}
+
+.contato-text p,
+.contato-text a {
+    font-size: 20px;
+    line-height: 30px;
+    width: 300px;
+}
+
+.contato-text h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.contato-form-msg {
+    height: 30px;
+}
+
+.footer-container {
+    height: 30px;
+}

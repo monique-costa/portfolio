@@ -1,0 +1,34 @@
+.projetos-container {
+    height: 260vh;
+}
+
+.projetos-next-container {
+    margin-top: -3vh;
+}
+
+.contato-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contato-text {
+    width: 400px;
+    margin-bottom: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.contato-text h2 {
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.contato-text p {
+    text-align: center;
+}
+
+.contato-form {
+    width: 50%;
+}
