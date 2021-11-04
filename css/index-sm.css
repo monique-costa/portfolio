@@ -1,3 +1,7 @@
+.home-container {
+    margin: 10vh auto 0 auto;
+}
+
 .home-img,
 .home-img-container {
     width: 200px;
@@ -6,6 +10,7 @@
 
 .home-text {
     width: 300px;
+    margin-top: 10px;
 }
 
 .home-text h1 {
@@ -18,11 +23,19 @@
 }
 
 .home-text p {
-    line-height: 30px;
+    line-height: 20px;
+}
+
+.home-next-container {
+    top: 80%;
+}
+
+.next-icon {
+    height: 50px;
 }
 
 .projetos-container {
-    height: 400vh;
+    height: 500vh;
 }
 
 .projeto-text-container {
@@ -34,14 +47,28 @@
 }
 
 .contato-text h2 {
-    font-size: 30px;
-    line-height: 50px;
+    font-size: 26px;
+    line-height: 30px;
+    margin-bottom: 10px;
 }
 
 .contato-text p {
-    line-height: 30px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.contato-text a {
+    font-size: 18px;
 }
 
 .contato-form {
     margin-top: 22px;
+}
+
+.contato-form-msg {
+    height: 40px;
+}
+
+.footer-container {
+    height: 30px;
 }
