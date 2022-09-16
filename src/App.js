@@ -33,7 +33,6 @@ function App() {
             <Resume />
             <Portfolio />
             <Contact />
-            <Credits />
           </main>
         </>
       )}
